@@ -34,6 +34,8 @@
 
 #### - [Material Complementar para elaboração de TCC - Memorial Descritivo](https://docs.google.com/document/d/1vzXdyzRcFrAvr7qFDshfq5gVHh1NDDmp/edit?usp=sharing&ouid=107938724732263871049&rtpof=true&sd=true)
 
+### - Templates - LaTeX (Overleaf)
+
 #### - [Template disponibilizado pelo Prof. Paulo Vinicius (formato pdf)](https://drive.google.com/file/d/1w3AnFUHrIGu5Mm-TadKsSYBuFSWgEZgS/view?usp=sharing)
 
 #### - [Template disponibilizado pelo Prof. Paulo Vinicius (formato LaTeX - Overleaf)](https://drive.google.com/file/d/1w1hjy2EE9vd8NzkOlQFfrxt6ogKvgBfc/view?usp=sharing)
