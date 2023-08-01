@@ -32,6 +32,8 @@
 
 ### - [Anexo X - Normas para elaboração do Memorial Descritivo do Projeto](https://docs.google.com/document/d/1sUsar10N8k7-Ug_Xh19d_vAvlAW_6kbn/edit?usp=sharing&ouid=107938724732263871049&rtpof=true&sd=true)
 
+#### - [Material Complementar para elaboração de TCC - Memorial Descritivo](https://docs.google.com/document/d/1vzXdyzRcFrAvr7qFDshfq5gVHh1NDDmp/edit?usp=sharing&ouid=107938724732263871049&rtpof=true&sd=true)
+
 
 
 
