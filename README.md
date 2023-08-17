@@ -39,3 +39,14 @@
 #### - [Template disponibilizado pelo Prof. Paulo Vinicius (formato pdf)](https://drive.google.com/file/d/1w3AnFUHrIGu5Mm-TadKsSYBuFSWgEZgS/view?usp=sharing)
 
 #### - [Template disponibilizado pelo Prof. Paulo Vinicius (formato LaTeX - Overleaf)](https://drive.google.com/file/d/1w1hjy2EE9vd8NzkOlQFfrxt6ogKvgBfc/view?usp=sharing)
+
+### - Orientações sobre o preenchimento do Formulário de Atividades Complementares
+
+#### - [Normas para preenchimento do Formulário](https://drive.google.com/file/d/1w6gABsUVpz9UFxQxgNk6ckP5sg3gXcJ6/view?usp=sharing)
+
+#### - [Anexo I - Formulário de Atividades Complementares](https://docs.google.com/document/d/1w75ZpgJrbSWOs8aU7HMCA5rCWRhl3Ry4/edit?usp=sharing&ouid=107938724732263871049&rtpof=true&sd=true)
+
+
+
+
+
