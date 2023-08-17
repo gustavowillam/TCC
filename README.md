@@ -47,6 +47,8 @@
 #### - [Anexo I - Formulário de Atividades Complementares](https://docs.google.com/document/d/1w75ZpgJrbSWOs8aU7HMCA5rCWRhl3Ry4/edit?usp=sharing&ouid=107938724732263871049&rtpof=true&sd=true)
 
 
+### - Orientações sobre Estágio
 
+#### - [Site do IFSudesteMG - Campus Muriaé-MG](https://www.ifsudestemg.edu.br/muriae/institucional/extensao/estagios-e-egressos/estatios)
 
 
