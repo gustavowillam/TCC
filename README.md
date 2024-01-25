@@ -8,7 +8,11 @@
 
 ### Verificar Item 4.6 e Anexo VI no PPC
 
-## - Anexos 
+## - Anexos a serem preenchidos pelo aluno 
+
+### - TCC-1 - Anexos: I, II, III, VIII
+
+### - TCC-2 - Anexos: IV, V, VI, VII
 
 ### - [Anexo I - Ficha de Incrição no TCC](https://docs.google.com/document/d/1s2qwc55qHw3eOGW5vNhAGkJPYLxxlZVZ/edit?usp=sharing&ouid=107938724732263871049&rtpof=true&sd=true)
 
@@ -26,29 +30,22 @@
 
 ### - [Anexo VIII - Termo de Compromisso do orientando de TCC](https://docs.google.com/document/d/1sSoip45qJWh3MI9d4vqbrjmLTBbs3kdZ/edit?usp=sharing&ouid=107938724732263871049&rtpof=true&sd=true)
 
-### - [Anexo IX - Normas para elaboração de TCC - Projeto de Pesquisa](https://docs.google.com/document/d/1sTpo0Pc7CLNqkb7EiYDXoiKyF52X1W4I/edit?usp=sharing&ouid=107938724732263871049&rtpof=true&sd=true)
+### - [Normas para Elaboração de TCC-Reitoria](https://www.ifsudestemg.edu.br/documentos-institucionais/unidades/barbacena/diretorias-sistemicas/ensino/normas-para-elaboracao-de-tcc-ou-monografia.pdf)
 
-#### - [Material Complementar para elaboração de TCC ou monografia](https://docs.google.com/document/d/1saQVTht9Ggt1I6lyzuVjtKLkSoHc09u4/edit?usp=sharing&ouid=107938724732263871049&rtpof=true&sd=true)
+### - [Normas para Elaboração de TCC-Resumo](https://docs.google.com/document/d/1wdtB6a64XbFZSJVzc-ZhPIpYeAZCiX4u/edit?usp=sharing&ouid=107938724732263871049&rtpof=true&sd=true)
 
-### - [Anexo X - Normas para elaboração do Memorial Descritivo do Projeto](https://docs.google.com/document/d/1sUsar10N8k7-Ug_Xh19d_vAvlAW_6kbn/edit?usp=sharing&ouid=107938724732263871049&rtpof=true&sd=true)
+### - [Relatório de Atividades Desenvolvidas](https://docs.google.com/document/d/1wnc-_OnUTrvF4EU9RdNu-HUERecoyhSn/edit?usp=sharing&ouid=107938724732263871049&rtpof=true&sd=true)
 
-#### - [Material Complementar para elaboração de TCC - Memorial Descritivo](https://docs.google.com/document/d/1vzXdyzRcFrAvr7qFDshfq5gVHh1NDDmp/edit?usp=sharing&ouid=107938724732263871049&rtpof=true&sd=true)
-
-### - Templates - LaTeX (Overleaf)
-
-#### - [Template disponibilizado pelo Prof. Paulo Vinicius (formato pdf)](https://drive.google.com/file/d/1w3AnFUHrIGu5Mm-TadKsSYBuFSWgEZgS/view?usp=sharing)
-
-#### - [Template disponibilizado pelo Prof. Paulo Vinicius (formato LaTeX - Overleaf)](https://drive.google.com/file/d/1w1hjy2EE9vd8NzkOlQFfrxt6ogKvgBfc/view?usp=sharing)
-
-### - Orientações sobre o preenchimento do Formulário de Atividades Complementares
-
-#### - [Normas para preenchimento do Formulário](https://drive.google.com/file/d/1w6gABsUVpz9UFxQxgNk6ckP5sg3gXcJ6/view?usp=sharing)
-
-#### - [Anexo I - Formulário de Atividades Complementares](https://docs.google.com/document/d/1w75ZpgJrbSWOs8aU7HMCA5rCWRhl3Ry4/edit?usp=sharing&ouid=107938724732263871049&rtpof=true&sd=true)
+### - [Cronograma de Entrega do Relatório de Atividades Desenvolvidas]()
 
 
-### - Orientações sobre Estágio
+# - Atividades Complementares - Orientações sobre o preenchimento do Formulário
+
+### - [Normas para preenchimento do Formulário](https://drive.google.com/file/d/1w6gABsUVpz9UFxQxgNk6ckP5sg3gXcJ6/view?usp=sharing)
+
+### - [Anexo I - Formulário de Atividades Complementares](https://docs.google.com/document/d/1w75ZpgJrbSWOs8aU7HMCA5rCWRhl3Ry4/edit?usp=sharing&ouid=107938724732263871049&rtpof=true&sd=true)
+
+
+# - Estágio
 
 #### - [Site do IFSudesteMG - Campus Muriaé-MG](https://www.ifsudestemg.edu.br/muriae/institucional/extensao/estagios-e-egressos/estatios)
-
-
