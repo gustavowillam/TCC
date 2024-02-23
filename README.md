@@ -36,7 +36,7 @@
 
 ### - [Relatório de Atividades Desenvolvidas](https://docs.google.com/document/d/1wnc-_OnUTrvF4EU9RdNu-HUERecoyhSn/edit?usp=sharing&ouid=107938724732263871049&rtpof=true&sd=true)
 
-### - [Cronograma de Entrega do Relatório de Atividades Desenvolvidas]()
+### - [Cronograma de Entrega do Relatório de Atividades Desenvolvidas](https://drive.google.com/file/d/1xr53PHKO-yVwX96Tsph8RsK6PSl8nkWe/view?usp=sharing)
 
 
 # - Atividades Complementares - Orientações sobre o preenchimento do Formulário
