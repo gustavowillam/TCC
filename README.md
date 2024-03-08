@@ -36,6 +36,8 @@
 
 ### - [Relatório de Atividades Desenvolvidas](https://docs.google.com/document/d/1wnc-_OnUTrvF4EU9RdNu-HUERecoyhSn/edit?usp=sharing&ouid=107938724732263871049&rtpof=true&sd=true)
 
+### - [Cronograma de Atendimento aos Alunos](https://drive.google.com/file/d/1y9eqG2Sgc8_MyRoVgVq0PSp9RAs3T5lC/view?usp=sharing)
+
 ### - [Cronograma de Entrega do Relatório de Atividades Desenvolvidas](https://drive.google.com/file/d/1xr53PHKO-yVwX96Tsph8RsK6PSl8nkWe/view?usp=sharing)
 
 
