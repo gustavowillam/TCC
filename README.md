@@ -30,22 +30,22 @@
 
 ### - [Anexo VIII - Termo de Compromisso do orientando de TCC](https://docs.google.com/document/d/1sSoip45qJWh3MI9d4vqbrjmLTBbs3kdZ/edit?usp=sharing&ouid=107938724732263871049&rtpof=true&sd=true)
 
-### - [Normas para Elaboração de TCC-Reitoria](https://www.ifsudestemg.edu.br/documentos-institucionais/unidades/barbacena/diretorias-sistemicas/ensino/normas-para-elaboracao-de-tcc-ou-monografia.pdf)
+### - [Template para Elaboração de TCC-Reitoria](https://www.ifsudestemg.edu.br/documentos-institucionais/unidades/barbacena/diretorias-sistemicas/ensino/normas-para-elaboracao-de-tcc-ou-monografia.pdf)
 
-### - [Normas para Elaboração de TCC-Resumo](https://docs.google.com/document/d/1wdtB6a64XbFZSJVzc-ZhPIpYeAZCiX4u/edit?usp=sharing&ouid=107938724732263871049&rtpof=true&sd=true)
+### - [Template para Elaboração de TCC-Resumo](https://docs.google.com/document/d/1wdtB6a64XbFZSJVzc-ZhPIpYeAZCiX4u/edit?usp=sharing&ouid=107938724732263871049&rtpof=true&sd=true)
 
-### - [Relatório de Atividades Desenvolvidas](https://docs.google.com/document/d/1wnc-_OnUTrvF4EU9RdNu-HUERecoyhSn/edit?usp=sharing&ouid=107938724732263871049&rtpof=true&sd=true)
+### - [Modelo de Relatório de Atividades Desenvolvidas](https://docs.google.com/document/d/1wnc-_OnUTrvF4EU9RdNu-HUERecoyhSn/edit?usp=sharing&ouid=107938724732263871049&rtpof=true&sd=true)
 
-### - [Cronograma de Atendimento aos Alunos](https://drive.google.com/file/d/1y9eqG2Sgc8_MyRoVgVq0PSp9RAs3T5lC/view?usp=sharing)
+### - [Cronograma de Atendimento aos Alunos 2024-2](https://drive.google.com/file/d/1y9eqG2Sgc8_MyRoVgVq0PSp9RAs3T5lC/view?usp=sharing)
 
-### - [Cronograma de Entrega do Relatório de Atividades Desenvolvidas](https://drive.google.com/file/d/1xr53PHKO-yVwX96Tsph8RsK6PSl8nkWe/view?usp=sharing)
+### - [Cronograma de Entrega do Relatório de Atividades Desenvolvidas 2024-2](https://drive.google.com/file/d/1xr53PHKO-yVwX96Tsph8RsK6PSl8nkWe/view?usp=sharing)
 
 
 # - Atividades Complementares - Orientações sobre o preenchimento do Formulário
 
 ### - [Normas para preenchimento do Formulário](https://drive.google.com/file/d/1w6gABsUVpz9UFxQxgNk6ckP5sg3gXcJ6/view?usp=sharing)
 
-### - [Anexo I - Formulário de Atividades Complementares](https://docs.google.com/document/d/1w75ZpgJrbSWOs8aU7HMCA5rCWRhl3Ry4/edit?usp=sharing&ouid=107938724732263871049&rtpof=true&sd=true)
+### - [Modelo Editável - Formulário de Atividades Complementares](https://docs.google.com/document/d/1w75ZpgJrbSWOs8aU7HMCA5rCWRhl3Ry4/edit?usp=sharing&ouid=107938724732263871049&rtpof=true&sd=true)
 
 
 # - Estágio
