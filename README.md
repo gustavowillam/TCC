@@ -36,10 +36,9 @@
 
 ### - [Template para Elaboração de TCC-Resumo](https://docs.google.com/document/d/1wdtB6a64XbFZSJVzc-ZhPIpYeAZCiX4u/edit?usp=sharing&ouid=107938724732263871049&rtpof=true&sd=true)
 
-### - [Cronograma de Atendimento aos Alunos 2024-2](https://drive.google.com/file/d/1y9eqG2Sgc8_MyRoVgVq0PSp9RAs3T5lC/view?usp=sharing)
+### - [Cronograma de Atendimento aos Alunos 2025-1 TCC-I](https://drive.google.com/file/d/18088SCigkcSfY_sS4utINdm1duKFJIAn/view?usp=sharing)
 
-### - [Cronograma de Entrega do Relatório de Atividades Desenvolvidas 2024-2](https://drive.google.com/file/d/1xr53PHKO-yVwX96Tsph8RsK6PSl8nkWe/view?usp=sharing)
-
+### - [Cronograma de Atendimento aos Alunos 2025-2 TCC-II](https://drive.google.com/file/d/1pmmkNKM8eJhPRiaXc1Bd32iX49EkHuYz/view?usp=sharing)
 
 # - Atividades Complementares - Orientações sobre o preenchimento do Formulário
 
