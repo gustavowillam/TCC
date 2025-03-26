@@ -38,7 +38,7 @@
 
 ### - [Cronograma de Atendimento aos Alunos 2025-1 TCC-I](https://drive.google.com/file/d/18088SCigkcSfY_sS4utINdm1duKFJIAn/view?usp=sharing)
 
-### - [Cronograma de Atendimento aos Alunos 2025-2 TCC-II](https://drive.google.com/file/d/1pmmkNKM8eJhPRiaXc1Bd32iX49EkHuYz/view?usp=sharing)
+### - [Cronograma de Atendimento aos Alunos 2025-1 TCC-II](https://drive.google.com/file/d/1pmmkNKM8eJhPRiaXc1Bd32iX49EkHuYz/view?usp=sharing)
 
 # - Atividades Complementares - Orientações sobre o preenchimento do Formulário
 
