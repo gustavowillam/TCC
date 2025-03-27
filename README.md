@@ -42,7 +42,7 @@
 
 # - Atividades Complementares - Orientações sobre o preenchimento do Formulário
 
-### - [Normas para preenchimento do Formulário](https://drive.google.com/file/d/1w6gABsUVpz9UFxQxgNk6ckP5sg3gXcJ6/view?usp=sharing)
+### - [Normas para preenchimento do Formulário](https://drive.google.com/file/d/1-SIW87Rqrk8J4TZosbFeVdq2wKzHLtv5/view?usp=sharing)
 
 ### - [Template - Formulário de Atividades Complementares](https://docs.google.com/document/d/1w75ZpgJrbSWOs8aU7HMCA5rCWRhl3Ry4/edit?usp=sharing&ouid=107938724732263871049&rtpof=true&sd=true)
 
